@@ -1,1 +1,1 @@
-# leamr-GitHub
+# learn-GitHub
